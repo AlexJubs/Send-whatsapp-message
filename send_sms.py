@@ -1,7 +1,7 @@
 from twilio.rest import Client
 
-account_sid = 'AC3b3e28a38edee468497adc563689ca2b'
-auth_token = '269e439a8235f12e6767c109608aeaff'
+account_sid = '***********'
+auth_token = '**********'
 client = Client(account_sid, auth_token)
 
 # this is the Twilio sandbox testing number
